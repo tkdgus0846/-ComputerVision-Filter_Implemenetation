@@ -1,0 +1,10 @@
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\bin\Debug\Computer_Vision_Homework.exe.config
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\bin\Debug\Computer_Vision_Homework.exe
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\bin\Debug\Computer_Vision_Homework.pdb
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.csprojAssemblyReference.cache
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.Form1.resources
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.Properties.Resources.resources
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.csproj.GenerateResource.cache
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.csproj.CoreCompileInputs.cache
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.exe
+C:\Users\tkdgu\source\repos\Computer_Vision_Homework\Computer_Vision_Homework\obj\Debug\Computer_Vision_Homework.pdb
